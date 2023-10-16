@@ -1,0 +1,5 @@
+Sub CloseWorkbook()
+    Application.DisplayAlerts = False
+    ThisWorkbook.Close SaveChanges:=True
+    Application.DisplayAlerts = True
+End Sub
