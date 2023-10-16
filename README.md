@@ -2,20 +2,45 @@ Project 4
 
 Automated Assignment Deadline Tracker and Reminder System. It automates the tracking and management of assignment deadlines, making life easier for students and reducing stress.
 
-archievement from this project:
+Archievement from this project:
 
 Consolidated assignment deadlines from various sources(efundi).
 Sent reminders to students at key intervals(via outlook).
 Implemented a user-friendly visualization of upcoming deadlines with color-coding(DDD,local website).
 Provided robust exception handling for manual review.
 
+
+***Evidence of Process hosted on uipath orechestrator***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 User manual
 How to set up and operate the bot 
 Prerequisites and set up
+The whole project
 	Install UiPath studio (not studio x)
 	Access the folder Due Date Dynamo NWU deadline tracker
 	Make sure Firefox and Microsoft excel is running 
 	Log into your Microsoft outlook account
+
 
 Operation UiPath
 1.	On the folder, double click “Main.xaml” file, you should see UiPath studio pop up
@@ -32,6 +57,9 @@ Operation Visualization Web
 •	Green table rows mean more than 5 days left before the assessment is due
 •	Yellow table rows mean 3 to 5 days left before the assessment is due
 •	Red table rows mean less than5 days left before the assessment due date
+
+
+
 
 
 	REFERRENCE LIST
