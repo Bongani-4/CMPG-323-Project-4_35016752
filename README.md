@@ -34,7 +34,7 @@ Operation Visualization Web
 •	Red table rows mean less than5 days left before the assessment due date
 
 
-8	REFERRENCE LIST
+	REFERRENCE LIST
 
 Davenport, T. H. (2018). The rise of Robotic Process Automation. Harvard Business Review.
 Marques, J., & Urbani, J. (2019). Robotic Process Automation: The next transformation lever for shared services. Harvard Business Review.
