@@ -16,14 +16,20 @@ Provided robust exception handling for manual review.
 ![Screenshot (163)](https://github.com/Bongani-4/CMPG-323-Project-4_35016752/assets/140083292/73e10ef6-606b-49ea-855b-ccef615b5ba3)
 
 
+
 User manual
+
 How to set up and operate the bot 
 Prerequisites and set up
+
 The whole project
-	Install UiPath studio (not studio x)
-	Access the folder Due Date Dynamo NWU deadline tracker
-	Make sure Firefox and Microsoft excel is running 
-	Log into your Microsoft outlook account
+1	Install UiPath studio (not studio x)
+
+2	Access the folder Due Date Dynamo NWU deadline tracker
+
+3	Make sure Firefox and Microsoft excel is running 
+
+4	Log into your Microsoft outlook account
 
 
 Operation UiPath
