@@ -1,4 +1,4 @@
-Project 4 
+UI Path Robotic process automation 
 **Should there be any file missing or unaccesable , all files can be found here:  https://drive.google.com/drive/folders/1wxsClLrPh1QyEanFt4auLxA0JAQBMlgN?usp=sharing**
 
 Automated Assignment Deadline Tracker and Reminder System. It automates the tracking and management of assignment deadlines, making life easier for students and reducing stress.
@@ -56,29 +56,4 @@ Operation Visualization Web
 
 Davenport, T. H. (2018). The rise of Robotic Process Automation. Harvard Business Review.
 Marques, J., & Urbani, J. (2019). Robotic Process Automation: The next transformation lever for shared services. Harvard Business Review.
-Miers, D. (2017). RPA: A journey from scripting to AI. Harvard Business Review.
-Papp, R., & Tanczos, B. (2018). Robotic Process Automation in Shared Services: Lessons from Case Studies. Harvard Business Review.
-Silver, B., Lacity, M., & Remko, v. D. W. (2016). Robotic Process Automation in the Shared Services Model. Harvard Business Review.
-Sutherland, J., & Butts, C. (2019). Robotic Process Automation: Are you ready? Harvard Business Review.
-UiPath. (2019). Accelerating digital transformation with RPA: Insights from Harvard Business Review. Harvard Business Review.
-Lacity, M. C., & Willcocks, L. P. (2017). Robotic Process Automation and Risk Mitigation: The Value of Trade-Offs. Harvard Business Review.
-Smith, A. N., & Bailey, M. (2018). Robotic Process Automation: A Path to Value. Harvard Business Review.
-Wortmann, F., & Willcocks, L. P. (2019). Reshaping Work with Robotic Process Automation. Harvard Business Review.
-Dhar, V., & George, J. (2018). The new frontier of process innovation: Robotic process automation. Harvard Business Review.
-Sharma, M., & Choudhary, A. (2019). A Review of Robotic Process Automation and its Adoption in Business Process. Harvard Business Review.
-Khurana, A., & Singh, S. (2017). Robotic Process Automation in Finance: Opportunities and Challenges. Harvard Business Review.
-Chui, M., Klein, P., & Knott, D. (2016). Eight business technology trends to watch. Harvard Business Review.
-Tien, S. L. (2018). Robotic Process Automation and the Finance Function of the Future. Harvard Business Review.
-Lee, A. S., & Lee, C. K. (2019). Robotic Process Automation (RPA) in Finance and Accounting. Harvard Business Review.
-Thiry, A. (2017). Robotic Process Automation and Shared Services: A Perfect Fit. Harvard Business Review.
-Schatsky, D., & Werne, B. (2017). Robotic Process Automation: A Path to the Cognitive Enterprise. Harvard Business Review.
-Narasimhan, L., & Ewusi-Mensah, K. (2018). Robotic Process Automation in Banking: The Road Ahead. Harvard Business Review.
-Menon, V., & Rajan, M. (2019). RPA in Human Resources: Transforming Talent Management. Harvard Business Review.
-Chandrasekaran, A., & Saravanan, S. (2017). Robotic Process Automation in Healthcare: An Overview. Harvard Business Review.
-Gokhale, S., & Prasad, V. R. (2016). The Role of Robotic Process Automation in Supply Chain Management. Harvard Business Review.
-Raghavan, A., & Rao, S. K. (2019). RPA in Customer Service: Enhancing the Customer Experience. Harvard Business Review.
-Sodhi, M. S., & Soni, G. (2017). Robotic Process Automation in Logistics and Transportation. Harvard Business Review.
-Sethi, V., & Nair, R. (2018). Robotic Process Automation in Marketing: A Case Study. Harvard Business Review.
-Verma, N., & Jain, A. (2016). Robotic Process Automation in E-commerce: Challenges and Opportunities. Harvard Business Review.
-Nambiar, A., & Raj, K. (2019). Implementing RPA: A Case Study in the Telecom Industry. Harvard Business Review.
-OpenAI. (2021). "GPT-3.5 Architecture" in OpenAI. Retrieved from [https://chat.openai.com/c/94f8f9b0-7352-48d3-9dc8-4eacfedac150]
+
