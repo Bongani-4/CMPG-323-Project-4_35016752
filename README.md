@@ -11,9 +11,9 @@ Implemented a user-friendly visualization of upcoming deadlines with color-codin
 Provided robust exception handling for manual review.
 
 
-***Evidence of Process hosted on uipath orechestrator***
-![Screenshot (162)](https://github.com/Bongani-4/CMPG-323-Project-4_35016752/assets/140083292/78b07110-40b1-4097-a2af-1b7b7899fa94)
-![Screenshot (163)](https://github.com/Bongani-4/CMPG-323-Project-4_35016752/assets/140083292/73e10ef6-606b-49ea-855b-ccef615b5ba3)
+***Process hosted on uipath orechestrator***
+
+
 
 
 
